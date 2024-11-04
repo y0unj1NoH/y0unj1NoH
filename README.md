@@ -5,7 +5,7 @@
     <h3 style="line-height: 50px; white-space: nowrap;">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Front-Facing%20Baby%20Chick.png" alt="Grinning Cat" width="40" height="40" style="vertical-align: middle;" />
         <span style="display: inline-block; vertical-align: middle; line-height: normal;">
-            안녕하세요! 저는 새로운 도전을 즐기는 개발자 노윤지입니다.
+            안녕하세요! 새로운 도전을 즐기는 개발자 노윤지입니다.
         </span>
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Front-Facing%20Baby%20Chick.png" alt="Grinning Cat" width="40" height="40" style="vertical-align: middle;" />
     </h3>
