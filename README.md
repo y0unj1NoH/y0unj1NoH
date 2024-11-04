@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=venom&color=0:87ceeb,100:ffffe0&text=y0unj1NoH's%20Github&fontColor=ffffe0&stroke=87ceeb&height=180&fontAlign=50&fontAlignY=40" alt="Capsule Render">
+    <img src="https://capsule-render.vercel.app/api?type=venom&color=0:87ceeb,100:ffffe0&text=y0unj1NoH's%20Github&fontColor=ffffff&stroke=87ceeb&height=180&fontAlign=50&fontAlignY=40" alt="Capsule Render">
 </div>
 <div align="center">
     <h3 style="line-height: 50px; white-space: nowrap;">
