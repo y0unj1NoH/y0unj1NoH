@@ -1,14 +1,13 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=venom&color=0:87ceeb,100:ffffe0&text=y0unj1NoH's%20Github&fontColor=ffffff&stroke=87ceeb&height=180&fontAlign=50&fontAlignY=40" alt="Capsule Render">
 </div>
+
 <div align="center">
-    <h3 style="line-height: 30px; white-space: nowrap;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Front-Facing%20Baby%20Chick.png" alt="Grinning Cat" width="40" height="40" style="vertical-align: middle;" />
-        <span style="display: inline-block; vertical-align: middle; line-height: normal;">
-            안녕하세요! 새로운 기술을 학습하고 공유하는 것을 좋아하는 개발자 노윤지입니다.
-        </span>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Front-Facing%20Baby%20Chick.png" alt="Grinning Cat" width="40" height="40" style="vertical-align: middle;" />
-    </h3>
+    <h4 style="line-height: 50px;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Front-Facing%20Baby%20Chick.png" alt="Front-Facing Baby Chick" width="40" height="40" style="vertical-align: middle;" />
+        안녕하세요! 새로운 기술을 학습하고 공유하는 것을 좋아하는 개발자 노윤지입니다.
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Front-Facing%20Baby%20Chick.png" alt="Front-Facing Baby Chick" width="40" height="40" style="vertical-align: middle;" />
+    </h4>
 </div>
 
 <div align="center">
