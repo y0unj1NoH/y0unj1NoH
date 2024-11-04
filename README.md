@@ -2,17 +2,17 @@
     <img src="https://capsule-render.vercel.app/api?type=venom&color=0:87ceeb,100:ffffe0&text=y0unj1NoH's%20Github&fontColor=ffffff&stroke=87ceeb&height=180&fontAlign=50&fontAlignY=40" alt="Capsule Render">
 </div>
 <div align="center">
-    <h3 style="line-height: 40px; white-space: nowrap;">
+    <h3 style="line-height: 30px; white-space: nowrap;">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Front-Facing%20Baby%20Chick.png" alt="Grinning Cat" width="40" height="40" style="vertical-align: middle;" />
         <span style="display: inline-block; vertical-align: middle; line-height: normal;">
-            안녕하세요! 새로운 도전을 즐기는 개발자 노윤지입니다.
+            안녕하세요! 새로운 기술을 학습하고 공유하는 것을 좋아하는 개발자 노윤지입니다.
         </span>
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Front-Facing%20Baby%20Chick.png" alt="Grinning Cat" width="40" height="40" style="vertical-align: middle;" />
     </h3>
 </div>
 
 <div align="center">
-    <h1 style="line-height: 50px;">
+    <h1 style="line-height: 50px; white-space: nowrap;">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" style="vertical-align: middle;" />
         <span style="display: inline-block; vertical-align: middle; line-height: normal;">
             Stacks
